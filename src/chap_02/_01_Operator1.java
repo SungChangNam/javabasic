@@ -70,7 +70,7 @@ public class _01_Operator1 {
         System.out.println("대기 인원:" + waiting++);//0
         System.out.println("대기 인원:" + waiting++);//1
         System.out.println("대기 인원:" + waiting++);//2
-        System.out.println("총 대기 인원"+waiting); //3
+        System.out.println("총 대기 인원"+waiting); //d3
 
 
 
