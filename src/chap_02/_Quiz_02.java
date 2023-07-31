@@ -9,8 +9,8 @@ public class _Quiz_02 {
         System.out.println("키가 " +height+ " cm 이므로 "+result);
 
         height = 115;
-        String result2 = (height >=120)? ("탑승 가능 합니다") : ("탑승 불가능 합니다");
-        System.out.println("키가 " +height+ " cm 이므로 "+result2);
+        result = (height >=120)? ("탑승 가능 합니다") : ("탑승 불가능 합니다");
+        System.out.println("키가 " +height+ " cm 이므로 "+result);
 
 
 
