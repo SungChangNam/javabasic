@@ -54,7 +54,7 @@ public class _07_TypeCasting {
         double d = Double.parseDouble("98.8"); //문자열 을 실수형으로 변환
         System.out.println(d); // 98.8
 
-        int error = Integer.parseInt("java"); //올바른 데이터가 아닐경우
+        int error = Integer.parseInt("java"); //올바른 데이터가 아닐경우 오류 발생함
         System.out.println(error);
 
 
